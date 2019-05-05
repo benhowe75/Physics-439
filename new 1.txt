@@ -1,0 +1,12 @@
+\preauthor{\usefont{OT1}{phv}{m}{s} \color{DarkRed} \LARGE Subtitle\begin{flushleft}\large \lineskip 0.5em \usefont{OT1}{phv}{b}{sl} \color{DarkRed}}
+
+According to an article from Physics Today[1], there is a range between 372,000 and 964,000 based on national physics society membership from the 34 most populous counties and adjusting for the estimated total world population. ... Not to sure on the total spectrum but there are only 8,000 Astrophysists in the world.
+
+“Physics and Astronomy - Western University.” Western University Physics Adn Astronomy, www.physics.uwo.ca/.
+
+\begin{align}\textbf{T} &= \frac{1}{2}m\left(a^2\omega^2 + b^2 \dot{\theta}^2 +2ab\omega\dot{\theta}\left[\sin{\theta\cos{\omega t-\sin{\omega t}\cos{\theta}}} \right ]\right ) \\
+&= \frac{1}{2}m \left(m^2\omega ^2 + b^2 \dot{\theta}^2+ 2ab\omega \dot{\theta}\sin{\left( \theta -\omega t\right )} \right ) \\
+\textbf{U} &= mg\left(a\sin{\omega t} -b\cos{\theta} \right ) \\
+\mathcal{L} &= \textbf{T}-\textbf{U}\\
+&= \frac{1}{2}m\left(m^2\omega^2+b^2 \dot{\theta}^2 +2ab\omega\dot{\theta}\sin{\left(\theta -\omega t \right )} \right )-mg\left(a\sin {\omega t} -b\cos{\theta}\right )
+\end{align}
